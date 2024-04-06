@@ -2,7 +2,7 @@
 <BR>
 
 This is the CNCF owned Archive organization for the OpenEBS project. <BR>
-![](https://github.com/openebs-archive/community/blob/main/images/CNCF_logo_color.png)
+[<image src="https://github.com/openebs-archive/community/blob/main/images/CNCF_logo_color.png">](https://cncf.io)
 ### What you will find here...
 ---
 
@@ -24,7 +24,7 @@ This Archive repository holds those old artifacts. We have physically moved the 
 ❌ NO you cannot submit ISSUES and PR's against the code. They're not actively being developed by the dev teams <BR>
 
 
-![](https://github.com/openebs-archive/community/blob/main/images/openebs-archive_github_project-structure.png)
+[<image src="https://github.com/openebs-archive/community/blob/main/images/openebs-archive_github_project-structure.png">](https://github.com/openebs)
 <BR>
 
 > [!IMPORTANT]
