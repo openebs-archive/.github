@@ -9,7 +9,7 @@ This is the CNCF owned Archive organization for the OpenEBS project.BR>
 
 Many of those projects were experiments and should have been End-Of-Life Archived; but we didn't do a good job of that. This created a messy, confusing user experience for the OpenEBS user community. - We needed to fix that. <BR>
 
-This Archive repository holds those old artifacts. We have physically moved the OLD LEGACY parts of the OpenEBS project here and DEPRECATED them from the parent OpenEBS proejct. They are no longer part of OpenEBS. <BR>
+This Archive repository holds those old artifacts. We have physically moved the OLD LEGACY parts of the OpenEBS project here and DEPRECATED them from the parent OpenEBS proejct. **They are no longer part of OpenEBS**. <BR>
 
 ☑️ YES, these archived projects will still work fine <BR>
 ☑️ YES they can still be installed, uninstalled and re-installed <BR>
@@ -19,7 +19,7 @@ This Archive repository holds those old artifacts. We have physically moved the 
 ❌ NO you cannot submit ISSUES and PR's against the code. They're not actively being developed by the dev teams <BR>
 
 
-![](https://github.com/openebs-archive/community/blob/main/images/openebs_github_project-structure_april2024.png)
+![](https://github.com/openebs-archive/community/blob/main/images/openebs-archive_github_project-structure.png)
 <BR>
 
 > [!IMPORTANT]
