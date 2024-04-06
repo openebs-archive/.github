@@ -5,7 +5,12 @@ This is the CNCF owned Archive organization for the OpenEBS project. <BR>
 ![](https://github.com/openebs-archive/community/blob/main/images/CNCF_logo_color.png)
 ### What you will find here...
 ---
-> We created this as a community place where the OLD LEGACY archived repos and dependencies will live on separately from the main parent OpenEBS project. In Jan 2024, we started a major modernization effort for the OpenEBS project (in concert with the CNCF TOC). During this process we needed to deprecate many old legacy projects that had lived long beyond their originally planned lifecycle. <BR>
+
+| We created this as a community place where the OLD LEGACY archived repos and dependencies will live on separately from the main parent OpenEBS project. In Jan 2024, we started a major modernization effort for the OpenEBS project (in concert with the CNCF TOC). During this process we needed to deprecate many old legacy projects that had lived long beyond their originally planned lifecycle  | [<img src="https://github.com/openebs-archive/community/blob/main/images/CNCF_cncg-icon-color_2024.png" >](/openebs-archive/community) |
+| :---  | :--- |
+
+
+ <BR>
 
 Many of those projects were experiments and should have been End-Of-Life Archived; but we didn't do a good job of that. This created a messy, confusing user experience for the OpenEBS user community. - We needed to fix that. <BR>
 
