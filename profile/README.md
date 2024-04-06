@@ -1,7 +1,7 @@
 ## Welcome to the OpenEBS-Archive org
 <BR>
 
-This is the CNCF owned Archive organization for the OpenEBS project.BR>
+This is the CNCF owned Archive organization for the OpenEBS project. <BR>
 ![](https://github.com/openebs-archive/community/blob/main/images/CNCF_logo_color.png)
 ### What you will find here...
 ---
