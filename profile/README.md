@@ -17,12 +17,12 @@ OpenEBS-Archive is an umbrella project, all of the projects, repo's and files ar
 ❌ NO. They may not continue to work OK, and No they will not be updated<BR>
 ❌ NO. The OpenEBS project team is not providing support or issue resolution for these legacy projects<BR>
 ❌ NO you cannot submit ISSUES and PR's against the code. They're not actively being developed by the dev teams <BR>
-☑️ Yes. You can [migrate from Legacy engines to a supported OpenEBS engine](https://openebs.io/docs/user-guides/data-migration/migration-using-velero/overview)<BR>
-☑️ Yes. The OpenEBS project team will provide support for people migrating to a supported engine
-☑️ YES. You can clone these repositories to another organization, and make changes there
+☑️ Yes. You can [migrate from a Legacy engine to a supported OpenEBS engine](https://openebs.io/docs/user-guides/data-migration/migration-using-velero/overview)<BR>
+☑️ Yes. The OpenEBS project team will provide support for people migrating to a supported engine <BR>
+☑️ YES. You can clone these repositories to another organization, and make changes there <BR>
 
 > [!IMPORTANT]
-> Here are some notes + guidelines for the repos in this Archive org... <br>
+> Here are some notes + guidelines for the repos in this Archive org... <BR>
 > - Some repos are READ-ONLY (Archived mode), some are not, eventually all will be READ-ONLY <BR>
 > - These repos are the Intellectual Property of CNCF / Linux Foundation. The organization is administered by the OpenEBS project Maintainers <BR>
 
