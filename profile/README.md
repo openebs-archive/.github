@@ -1,37 +1,29 @@
-## Welcome to the OpenEBS-Archive org
+# OpenEBS-Archive Organization README
 <BR>
 
-This is the CNCF owned Archive organization for the OpenEBS project. <BR>
-[<image src="https://github.com/openebs-archive/community/blob/main/images/CNCF_logo_color.png">](https://cncf.io)
-### What you will find here...
----
+This is a CNCF owned Archive organization for deprecated repos from the OpenEBS project. <BR>
+[<image src="https://github.com/openebs-archive/community/blob/main/images/CNCF_logo_color.png" width=200>](https://cncf.io)
 
-| We created this as a community place where the OLD LEGACY archived repos and dependencies will live on separately from the main parent OpenEBS project. In Jan 2024, we started a major modernization effort for the OpenEBS project (in concert with the CNCF TOC). During this process we needed to deprecate many old legacy projects that had lived long beyond their originally planned lifecycle  | [<img alt="Archive Community" src="https://github.com/openebs-archive/community/blob/main/images/CNCF_cncg-icon-color_2024.png" >](https://github.com/openebs-archive/community) |
-| :---  | :--- |
+## What you will find here...
+> [!Important]
+This organization contains OLD LEGACY archived repos, projects and files removed from the OpenEBS project. What you'll find here is snapshots of these old artifacts at the time of removal. None of the repos are intended for contribution, discussion or issues. If you wish to contribute or make changes, then Clone the repository to another organization and make the changes there. We neither encourage or discourage this. **These repos are no longer part of the OpenEBS project.** The role of the maintainers is to move repos here, and make sure they are available.
 
+## Umbrella Project
+OpenEBS-Archive is an umbrella project, all of the projects, repo's and files are governed by the umbrella project files in the Community repo.
 
- <BR>
-
-Many of those projects were experiments and should have been End-Of-Life Archived; but we didn't do a good job of that. This created a messy, confusing user experience for the OpenEBS user community. - We needed to fix that. <BR>
-
-This Archive repository holds those old artifacts. We have physically moved the OLD LEGACY parts of the OpenEBS project here and DEPRECATED them from the parent OpenEBS proejct. **They are no longer part of OpenEBS**. <BR>
-
-☑️ YES, these archived projects will still work fine <BR>
-☑️ YES they can still be installed, uninstalled and re-installed <BR>
-❌ NO they are not supported by the OpenEBS parent project <BR>
-☑️ YES the CNCF Kubernetes and OpenEBS user community is still active and supporting them <BR>
-☑️ YES they can be forked <BR>
+## What you can and can't do with the repos
+☑️ YES. These archived projects work OK at the time they were moved here<BR>
+☑️ YES. They can still be installed, uninstalled and re-installed<BR>
+❌ NO. They may not continue to work OK, and No they will not be updated<BR>
+❌ NO. The OpenEBS project team is not providing support or issue resolution for these legacy projects<BR>
 ❌ NO you cannot submit ISSUES and PR's against the code. They're not actively being developed by the dev teams <BR>
-
-
-[<image src="https://github.com/openebs-archive/community/blob/main/images/openebs-archive_github_project-structure.png">](https://github.com/openebs)
-<BR>
+☑️ Yes. You can [migrate from Legacy engines to a supported OpenEBS engine](https://openebs.io/docs/user-guides/data-migration/migration-using-velero/overview)<BR>
+☑️ Yes. The OpenEBS project team will provide support for people migrating to a supported engine
+☑️ YES. You can clone these repositories to another organization, and make changes there
 
 > [!IMPORTANT]
-> There are some community guidelines associated with the use of this Archive org... <br>
-> - It is not guaranteed that all repos and projects will be remain Read/Write <BR>
-> - Some repos are READ-ONLY (Archived mode) / (this is intentional) <BR>
-> - Eventually all repos will be made READ-ONLY (Archived mode) <BR>
-> - These repos are the Intellectual Property of CNCF / Linux Foundation. They are administered by the OpenEBS Maintainers <BR>
-> - Users may request a project to be re-Activated, but this must follow a Governance process (TBD) <BR>
-> - Any reactivated repos will not revert into the OpenEBS parent org <BR>
+> Here are some notes + guidelines for the repos in this Archive org... <br>
+> - Some repos are READ-ONLY (Archived mode), some are not, eventually all will be READ-ONLY <BR>
+> - These repos are the Intellectual Property of CNCF / Linux Foundation. The organization is administered by the OpenEBS project Maintainers <BR>
+
+
